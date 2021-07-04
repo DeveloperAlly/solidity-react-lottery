@@ -10,3 +10,6 @@ lottery/deploy.js requires you to add your seed phrase and endpoint.
 
 
 I imagine this is the to-do list of solidity :P woooo
+
+
+See solidity-react-chainlink-lottery repo for a better version that deploys to rinkeby and uses Chainlink Verifiable random numbers to get a random winner
